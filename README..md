@@ -2,6 +2,6 @@
 
 By Maulik Vadodariya
 
-## [Link to the live Project]()
+## [Link to the live Project](https://63c9f796909dde7347f59828--majestic-crepe-4be468.netlify.app/)
 
 - This project is made using html, css and javascript.
